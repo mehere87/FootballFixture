@@ -10,6 +10,6 @@ the teams set by default as :
 gTeams = ['Real Madrid','Liverpool','Manchester City','AC Milan','Barcelona','Juventus','Bayern Munich','Borussia Dortmund','Chelsea','Arsenal' ]
 
 
-just change the list too any team u like from skysports
+just change the list to any team you like from skysports
 
 3rd project
